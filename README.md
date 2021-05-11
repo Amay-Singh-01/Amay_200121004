@@ -16,7 +16,8 @@
 
 ### C++ Program for Summing ASCII Values of a full name
 
-```
+`code()`
+
 #include<iostream>
 
 using namespace std;
@@ -35,7 +36,7 @@ for(int i=0;myname[i]!='\0';i++)  // end character os strings in c++ is \0
   cout<<"\n The sum of your name's ASCII values is "<<sum;
   return 0;
 }
-```
+
 
 ### Coding Club Logo IITG
 
