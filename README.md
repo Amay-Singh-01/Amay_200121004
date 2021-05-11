@@ -15,8 +15,8 @@
 |App Development|16/05/2021|NO|
 
 ### C++ Program for Summing ASCII Values of a full name
+
 ```c++
-```
 #include<iostream>
 
 using namespace std;
