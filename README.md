@@ -43,6 +43,6 @@ for(int i=0;myname[i]!='\0';i++)  // end character os strings in c++ is \0
 
 ### My Interests in various fields of coding
 
-1. *bold* Competetive Coding
+* **Competetive Coding - ** hkkjh jb
 2. feef
 
